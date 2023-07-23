@@ -1,8 +1,6 @@
-# python-phonebook-app
-
 🐍 ☎ python-phonebook-app
 
-## Extend Phonebook Application
+# Extend Phonebook Application
 
 This is an extended version of the Phonebook application, which provides the following
 functionality:
