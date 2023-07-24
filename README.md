@@ -15,7 +15,7 @@ functionality:
 - Update a record for a given telephone number
 - An option to exit the program
 
-Usage: python phonebook.py <phonebook_name>
+Usage: python main.py <phonebook_name>
 
 The first argument to the application should be the name of the phonebook. The application will load
 JSON data from the folder with the application if it is present, otherwise, it will raise an error.
