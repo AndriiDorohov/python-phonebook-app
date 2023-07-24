@@ -1,0 +1,16 @@
+[build-system]
+requires = ["poetry>=1.1.0"]
+build-backend = "poetry.masonry.api"
+
+[tool.poetry]
+name = "Extend Phonebook Application"
+version = "1.0.0"
+description = "This is an extended version of the Phonebook application, which provides the following functionality."
+authors = ["Andrii Dorokhov <dorokhov.andrii@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
