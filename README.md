@@ -22,16 +22,3 @@ JSON data from the folder with the application if it is present, otherwise, it w
 After the user exits the program, all data will be saved to the loaded JSON.
 
 Feel free to explore and use this phonebook application to manage your contacts efficiently! 📞
-
-phonebook_app/
-    ├── database/         # Folder for storing the database file
-    │   └── database.json
-    ├── src/              # Folder for Python modules
-    │   ├── __init__.py
-    │   ├── file.py        # Module for file handling
-    │   ├── helper.py      # Helper functions and utilities
-    │   ├── manager.py     # Module for managing records
-    │   └── search.py      # Module for searching records
-    ├── main.py           # Main file of the program
-    └── README.md         # Documentation and explanations about the project
-
