@@ -23,8 +23,14 @@ After the user exits the program, all data will be saved to the loaded JSON.
 
 Feel free to explore and use this phonebook application to manage your contacts efficiently! 📞
 
-phonebook_app/ \n ├── database/ # Folder for storing the database file \n │ └── database.json \n ├──
-src/ # Folder for Python modules \n │ ├── **init**.py \n │ ├── file.py # Module for file handling \n
-│ ├── helper.py # Helper functions and utilities \n │ ├── manager.py # Module for managing records
-\n │ └── search.py # Module for searching records \n ├── main.py # Main file of the program \n └──
-README.md # Documentation and explanations about the project \n
+    phonebook_app/
+        ├── database/         # Folder for storing the database file
+        │   └── database.json
+        ├── src/              # Folder for Python modules
+        │   ├── __init__.py
+        │   ├── file.py        # Module for file handling
+        │   ├── helper.py      # Helper functions and utilities
+        │   ├── manager.py     # Module for managing records
+        │   └── search.py      # Module for searching records
+        ├── main.py           # Main file of the program
+        └── README.md         # Documentation and explanations about the project
