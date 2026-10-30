@@ -1,1 +1,14 @@
-{"0762729401": {"first_name": "Andrii", "last_name": "Dorokhov", "city": "Kharkiv", "country": "Ukraine"}, "13109179191": {"first_name": "Christina", "last_name": "Aguilera", "city": "Los Angeles", "country": "USA"}, "13475969990": {"first_name": "Lindsay", "last_name": "Lohan", "city": "Los Angeles", "country": "USA"}, "13102796312": {"first_name": "Vin", "last_name": "Diesel", "city": "California", "country": "USA"}, "0996788990": {"phone_number": "Bill", "first_name": "Klinton", "last_name": "Washington", "city": "USA"}}
+{
+  "demo-001": {
+    "first_name": "Alex",
+    "last_name": "Example",
+    "city": "Sampletown",
+    "country": "Exampleland"
+  },
+  "demo-002": {
+    "first_name": "Jordan",
+    "last_name": "Sample",
+    "city": "Testville",
+    "country": "Exampleland"
+  }
+}
